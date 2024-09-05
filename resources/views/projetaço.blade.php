@@ -99,7 +99,7 @@ Music
 <div class = "w-24 text-center"> 
 
 <div class= " border-2 rounded-full p-1 ">
-  <img class ="aspect-square rounded-full object-cover" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRE8cYh0yoZb7dM6vYYl2XvqR2v7nOMRuUQ&s" alt=""> 
+  <img class ="aspect-square rounded-full object-cover" src=
  </div> 
 Família
 </div>
